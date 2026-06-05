@@ -8,6 +8,7 @@
   * [南京抗战](events/nanjing-resistance.md)
   * [再统一战争](events/reunification-war.md)
   * [弘光新政](events/hongguang-reforms.md)
+  * [收复台湾战争](events/taiwan-recovery-war.md)
   * [甲申宪改](events/1884-constitutional-reform.md)
   * [中俄百年战争](events/sino-russian-hundred-years-war.md)
   * [一次世界大战](events/great-war.md)

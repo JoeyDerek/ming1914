@@ -12,7 +12,7 @@
 
 1. 先读 [总年表](timeline.md)，了解从 1644 到 1914 的主线。
 2. 再读 [南京抗战](events/nanjing-resistance.md) 和 [再统一战争](events/reunification-war.md)，理解这个世界如何偏离真实历史。
-3. 然后读 [弘光新政](events/hongguang-reforms.md)、[甲申宪改](events/1884-constitutional-reform.md)、[内阁首辅与总理大臣](institutions/chief-councillors.md) 和 [内阁制](institutions/cabinet-system.md)，了解大明如何近代化。
+3. 然后读 [弘光新政](events/hongguang-reforms.md)、[收复台湾战争](events/taiwan-recovery-war.md)、[甲申宪改](events/1884-constitutional-reform.md)、[内阁首辅与总理大臣](institutions/chief-councillors.md) 和 [内阁制](institutions/cabinet-system.md)，了解大明如何近代化。
 4. 再读 [党派政治](politics/party-politics.md)、[东厂、西厂与警察机构](institutions/intelligence-and-police.md)、[教育与科举](culture/education-and-exams.md) 和 [商业与捐爵](economy/commerce-and-titles.md)，理解立宪大明的日常运作。
 5. 最后进入 [外交与战争](diplomacy/diplomacy-and-war.md) 和 [一次世界大战](events/great-war.md)，查看大明如何面对俄国、日本与西方殖民压力。
 
